@@ -12,12 +12,12 @@ docker.getcollate.io/openmetadata/server:1.10.6
 docker.elastic.co/elasticsearch/elasticsearch:8.11.4
 
 #Data Hub
-acryldata/datahub-actions:v1.3.0.1-slim
-acryldata/datahub-gms:v1.3.0.1
-acryldata/datahub-frontend-react:v1.3.0.1
-confluentinc/cp-kafka:8.0.0
-mysql:8.2
-acryldata/datahub-mysql-setup:v1.3.0.1
-acryldata/datahub-elasticsearch-setup:v1.3.0.1
-acryldata/datahub-upgrade:v1.3.0.1
-opensearchproject/opensearch:2.19.3
+#acryldata/datahub-actions:v1.3.0.1-slim
+#acryldata/datahub-gms:v1.3.0.1
+#acryldata/datahub-frontend-react:v1.3.0.1
+#confluentinc/cp-kafka:8.0.0
+#mysql:8.2
+#acryldata/datahub-mysql-setup:v1.3.0.1
+#acryldata/datahub-elasticsearch-setup:v1.3.0.1
+#acryldata/datahub-upgrade:v1.3.0.1
+#opensearchproject/opensearch:2.19.3
