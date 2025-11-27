@@ -57,3 +57,6 @@ ubuntu/squid:latest
 #vastdata/vastbase-vector
 #myscale/myscaledb:1.6.4
 
+# Neo4j
+
+neo4j:latest
