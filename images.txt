@@ -17,7 +17,7 @@ acryldata/datahub-actions:1d57e36-slim
 acryldata/datahub-gms:1d57e36
 acryldata/datahub-upgrade:1d57e36
 acryldata/datahub-elasticsearch-setup:1d57e36
-acryldata/datahub-kafka-setup:1d57e36
+acryldata/datahub-kafka-setup:c521518
 elasticsearch:7.16.1
 neo4j:4.4.9-community
 confluentinc/cp-schema-registry:7.9.2
