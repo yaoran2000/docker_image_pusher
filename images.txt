@@ -12,12 +12,12 @@
 #docker.elastic.co/elasticsearch/elasticsearch:8.11.4
 
 #Data Hub
-acryldata/datahub-frontend-react:v1.3.1.3
-acryldata/datahub-actions:v1.3.1.3-slim
-acryldata/datahub-gms:v1.3.1.3
-acryldata/datahub-upgrade:v1.3.1.3
-acryldata/datahub-elasticsearch-setup:v1.3.1.3
-acryldata/datahub-kafka-setup:v1.3.1.3
+acryldata/datahub-frontend-react:1d57e36
+acryldata/datahub-actions:1d57e36-slim
+acryldata/datahub-gms:1d57e36
+acryldata/datahub-upgrade:1d57e36
+acryldata/datahub-elasticsearch-setup:1d57e36
+acryldata/datahub-kafka-setup:1d57e36
 elasticsearch:7.16.1
 neo4j:4.4.9-community
 confluentinc/cp-schema-registry:7.9.2
