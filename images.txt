@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 clickhouse/clickhouse-server:24.12
+postgres:17
