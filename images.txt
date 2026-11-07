@@ -5,18 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-#OpenMetadata
-#docker.getcollate.io/openmetadata/db:1.10.6
-#docker.getcollate.io/openmetadata/ingestion:1.10.6
-#docker.getcollate.io/openmetadata/server:1.10.6
-#docker.elastic.co/elasticsearch/elasticsearch:8.11.4
-
-#docker.getcollate.io/openmetadata/postgresql:1.12.3
-#docker.elastic.co/elasticsearch/elasticsearch:9.3.0
-#docker.getcollate.io/openmetadata/server:1.12.3
-#docker.getcollate.io/openmetadata/ingestion:1.12.3
-
-docker.getcollate.io/openmetadata/db:1.12.3
-docker.elastic.co/elasticsearch/elasticsearch:9.3.0
-docker.getcollate.io/openmetadata/server:1.12.3
-docker.getcollate.io/openmetadata/ingestion:1.12.3
+clickhouse/clickhouse-server:24.12
