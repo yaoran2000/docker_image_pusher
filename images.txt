@@ -1,4 +1,3 @@
 clickhouse/clickhouse-server:24.12
 postgres:17
-cubejs/cube:latest
-eosphorosai/dbgpt:latest
+cubejs/cube:v1.8.28
