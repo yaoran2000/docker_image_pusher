@@ -3,4 +3,7 @@ postgres:17
 eosphorosai/dbgpt:v0.8.3
 cubejs/cube:v1.8.28
 mysql:8.0
-supersonicbi/supersonic:latest
+docker.getcollate.io/openmetadata/db:2.0.9
+docker.elastic.co/elasticsearch/elasticsearch:9.3.0
+docker.getcollate.io/openmetadata/server:2.0.9
+docker.getcollate.io/openmetadata/ingestion:2.0.9
