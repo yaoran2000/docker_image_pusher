@@ -9,3 +9,4 @@ docker.io/openmetadata/db:2.0.9
 docker.io/openmetadata/server:2.0.9
 docker.io/openmetadata/ingestion:2.0.9
 docker.1ms.run/php:8.4-fpm
+docker.io/library/crmeb_php:8.4
