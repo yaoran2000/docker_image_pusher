@@ -4,7 +4,6 @@ eosphorosai/dbgpt:v0.8.3
 cubejs/cube:v1.8.28
 mysql:8.0
 docker.elastic.co/elasticsearch/elasticsearch:9.3.0
-ghcr.io/open-metadata/openmetadata-db:2.0.9
-ghcr.io/open-metadata/openmetadata-server:2.0.9
-ghcr.io/open-metadata/openmetadata-ingestion:2.0.9
-ghcr.io/open-metadata/openmetadata-airflow:2.0.9
+docker.io/openmetadata/db:2.0.9
+docker.io/openmetadata/server:2.0.9
+docker.io/openmetadata/ingestion:2.0.9
